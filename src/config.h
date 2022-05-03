@@ -122,7 +122,7 @@
 #define SEGA_SATURN_FILTERS ".zip"
 #define GAME_GEAR_FILTERS ".zip,.gg"
 #define MASTER_SYSTEM_FILTERS ".zip"
-#define MEGA_DRIVE_FILTERS ".zip"
+#define MEGA_DRIVE_FILTERS ".zip,.bin,.smd"
 #define NEC_FILTERS ".zip"
 #define ATARI_2600_FILTERS ".zip,.a26"
 #define ATARI_5200_FILTERS ".zip,.a52"
